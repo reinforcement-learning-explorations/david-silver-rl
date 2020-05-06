@@ -1,6 +1,10 @@
-# david-silver-rl
+# monte-carlo control
 
-[Monte-Carlo Control](monte-carlo-control/README.md)
+| itr = 1,000 | itr = 20,000 |
+:-------------:|:--------------:
+![1,000 Iterations](./plots/1k-itr.png) | ![20,000 Iterations](./plots/20k-itr.png)
+| itr = 100,000 | itr = 1,000,000 |
+![100,000 Iterations](./plots/100k-itr.png) | ![1,000,000 Iterations](./plots/1M-itr.png)
 
 ### __WORKING ITEMS__
 ---
