@@ -9,6 +9,9 @@ class Easy21:
         self.terminal = 0
         self.command_line = cl
 
+    def state(self):
+        return self.s[0], self.s[1]
+
     def start(self):
         if self.command_line:
             print("---Start state [dealer, player]: ", self.s, "---")
@@ -84,4 +87,4 @@ class Easy21:
                 print("---dealer's turn complete: ", self.s, "---")
             reward = self.declare_victor(self.s)
             self.terminal = 1
-        return self.s, reward
+        return (self.s[0], self.s[1]), reward
