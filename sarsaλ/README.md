@@ -1,8 +1,8 @@
 # sarsa(λ)
 
 ### __Value Functions: λ & Episodes Vary__
-| | | | |
-|-|-|-|-|
+| | | |
+|-|-|-|
 ![1,000 Episodes](./plots/λ-0.0_E-1000.png) | ![100,000 Episodes](./plots/λ-0.0_E-10000.png) | ![100,000 Episodes](./plots/λ-0.0_E-100000.png)
 ![1,000 Episodes](./plots/λ-1.0_E-1000.png) | ![100,000 Episodes](./plots/λ-1.0_E-10000.png) | ![100,000 Episodes](./plots/λ-1.0_E-100000.png)
 
