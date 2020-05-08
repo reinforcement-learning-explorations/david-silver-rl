@@ -1,21 +1,19 @@
 # david-silver-rl
 
 [Monte-Carlo Control](monte-carlo-control/README.md)
+[Sarsa(λ)](sarsaλ/README.md)
 
 ### __WORKING ITEMS__
 ---
 <ul style="list-style-type:upper-roman;">
     <li>
-        Move to a completely numpy centric style.
+        Lectures 6-10
         <ol style="list-style-type:lower-greek;">
             <li>
-                It will be faster & more space efficient
+                Final project...
             </li>
             <li>
-                It will be more adaptable to future AI techniques & concepts
-            </li>
-            <li>
-                It will develop linear algebra related reasoning skill & general comfort
+                Understand previous exams & solutions...
             </li>
         </ol >
     </li>
