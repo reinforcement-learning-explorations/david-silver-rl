@@ -7,13 +7,13 @@
 ![1,000 Episodes](./plots/λ-1.0_E-1000.png) | ![100,000 Episodes](./plots/λ-1.0_E-10000.png) | ![100,000 Episodes](./plots/λ-1.0_E-100000.png)
 
 ### __Mean Squared Error vs λ: Episodes Vary__
-| | | |
-|-|-|-|
+| | |
+|-|-|
 ![1,000 Episodes](./plots/mse_vs_λ_sarsaλ_vs_mcControl_e1000.png) | ![100,000 Episodes](./plots/mse_vs_λ_sarsaλ_vs_mcControl_e100000.png)
 
 ### __Training Curves: MSE vs Episodes__
-| | | |
-|-|-|-|
+| | |
+|-|-|
 ![1,000 Episodes](./plots/mse_vs_e_sarsaλ_vs_mcControl_e1000.png) | ![100,000 Episodes](./plots/mse_vs_e_sarsaλ_vs_mcControl_e100000.png)
 
 ### __WORKING ITEMS__
