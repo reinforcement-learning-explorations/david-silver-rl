@@ -1,4 +1,4 @@
-# sarsa(λ)
+# Sarsa(λ)
 
 ### __Value Functions: λ & Episodes Vary__
 | | | |
