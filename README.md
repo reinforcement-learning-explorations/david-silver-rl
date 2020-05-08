@@ -1,7 +1,7 @@
 # david-silver-rl
 
-i. [Monte-Carlo Control](monte-carlo-control/README.md)
-ii. [Sarsa(λ)](sarsaλ/README.md)
+1.  [Monte-Carlo Control](monte-carlo-control/README.md)
+2.  [Sarsa(λ)](sarsaλ/README.md)
 
 ### __WORKING ITEMS__
 ---
