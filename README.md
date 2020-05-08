@@ -1,18 +1,7 @@
 # david-silver-rl
 
-<ul style="list-style-type:upper-roman;">
-    <li>
-        Lectures 6-10
-        <ol style="list-style-type:lower-greek;">
-            <li>
-                [Monte-Carlo Control](monte-carlo-control/README.md)
-            </li>
-            <li>
-                [Sarsa(λ)](sarsaλ/README.md)
-            </li>
-        </ol >
-    </li>
-</ul>
+i. [Monte-Carlo Control](monte-carlo-control/README.md)
+ii. [Sarsa(λ)](sarsaλ/README.md)
 
 ### __WORKING ITEMS__
 ---
