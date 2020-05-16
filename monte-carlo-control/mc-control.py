@@ -6,7 +6,6 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 import numpy as np
 from environment.easy21 import Easy21
 from utilities.plotter import value_fn_plotter
-<<<<<<< HEAD
 from utilities import model_store as ms
 
 def monte_carlo_control(valuefn=False):
