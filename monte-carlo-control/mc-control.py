@@ -13,12 +13,6 @@ def monte_carlo_control(valuefn=False):
     nS = 210
     nsX = 10
     nsY = 21
-=======
-
-
-def monte_carlo_control():
-    nS = 210
->>>>>>> 69593de33bf508aaa122c6022f70704adc37b3fe
     nA = 2
 
     Q = np.zeros(shape=(10, 21, nA))
